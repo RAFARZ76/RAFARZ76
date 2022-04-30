@@ -1,6 +1,6 @@
 - 👋Olá, eu sou @RAFARZ76!
 
-- 👀 Tenho interesse em conquistar minha primeira vaga de desenvolvedor de Software, se na sua Empresa tem essa oportunidade, estou aberto em aprender
+- 👀 Tenho interesse em conquistar minha primeira vaga de desenvolvedor de Software, se na sua Empresa tem essa oportunidade, estou aberto em aprender essas oportunidades.
 
 -   🌱 Adquiri conhecimentos: Equalizações Essenciais; Soft Skills; Sistemas Operacionais; Organização e Arquitetura de Computadores; Modelagem de Dados; SQL, Front End: Java Script/Html/CSS/Bootstrap; Lógica de programação; Introdução a Phyton, Java; Orientação a Objeto; Projeto Web; Tópicos especiais em paralelo: Análise de dados em  Qulik Sense/ Tableau; Projetos com temas diversos para  Dashboard, APIs Rest com Python e Django Framework.
 
