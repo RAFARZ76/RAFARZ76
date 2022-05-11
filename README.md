@@ -9,5 +9,5 @@
 - 🚀 Portfólio: https://public.tableau.com/app/profile/rafael.raizer#!/?newProfile=&activeTab=0
 
 
-👉
+
 
