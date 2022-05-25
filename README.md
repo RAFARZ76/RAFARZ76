@@ -17,13 +17,13 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
     
 </div>
+  
+<div>
               <a href="https://github.com/RAFARZ76"><i class="fab fa-github"<img src=" Imagemgithub .png"
                 style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
-              <a a class="gitlink" href="https://www.linkedin.com/in/rafael-raizer/"><i class="fab fa-linkedin"<img src="Imagemlinkedin.png "
-                style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
+              <a a class="gitlink" href="https://www.linkedin.com/in/rafael-raizer/"><i class="fab fa-linkedin"<img src="Imagemlinkedin.png ”                style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
               <a href="https://public.tableau.com/app/profile/rafael.raizer"><i class="fab fa-public.tableau"><img src="ImagemTableau.jpg"
                   style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
               <a class="tabwhatss" href="https://api.whatsapp.com/send/?phone=47999327137&text&app_absent=0"><i class="fab fa-whastsapp"><img src="imagemwhats.webp"
