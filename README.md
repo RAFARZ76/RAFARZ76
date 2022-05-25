@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>readme</title>
-
-    <link rel="stylesheet" href="./github-contribution-grid-snake    >
-
-    <h2> 
-•	👋Olá, eu sou @RAFARZ76!
+  <h2> 
+	👋Olá, eu sou @RAFARZ76!
 </h2>
 <h3 align = "center"> 🚀 Desenvolvedor Full Stack Jr </h3>
 <div>
