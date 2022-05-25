@@ -23,9 +23,9 @@
  
     
 </div>
-              <a href="https://github.com/RAFARZ76"><i class="fab fa-github""<img src=" Imagem github .png"
+              <a href="https://github.com/RAFARZ76"><i class="fab fa-github""<img src=" Imagem github.png"
                 style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
-              <a a class="gitlink" href="https://www.linkedin.com/in/rafael-raizer/"><i class="fab fa-linkedin"<img src="imagem linkedin.png "
+              <a a class="gitlink" href="https://www.linkedin.com/in/rafael-raizer/"><i class="fab fa-linkedin"<img src="imagem linkedin.png"
                 style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
               <a href="https://public.tableau.com/app/profile/rafael.raizer"><i class="fab fa-public.tableau"><img src="Imagem Tableau.jpg"
                   style="width:50px;height:50px;object-fit:cover;object-position:50% 50%"></i></a>
