@@ -3,12 +3,11 @@
 </h2>
 <h3 align = "center"> 🚀 Desenvolvedor Full Stack Jr </h3>
 <div>
-  <a href="https://github.com/RAFARZ76">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
-  
+    <a href="https://github.com/RAFARZ76">
+    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RAFARZ76&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFARZ76&layout=compact&langs_count=7&theme=react" />
   </div>
- <br>
+ <br>	
 	
 <div  align="center"> 
   <div style="display: inline_block"><br>
