@@ -22,7 +22,7 @@
 </div>
 <br><br>
 <div>
-      <a align="center" href="https://github.com/RAFARZ76"><i class="fab fa-github"><img src="Imagemgithub.png"
+      <a align="left" href="https://github.com/RAFARZ76"><i class="fab fa-github"><img src="Imagemgithub.png"
       style="width:30px;height:30px;object-fit:cover;object-position:50% 50%"></i></a>
       <a align="center" class="gitlink" href="https://www.linkedin.com/in/rafael-raizer/"><i class="fab fa-linkedin"><img src="Imagemlinkedin.png"
       style="width:30px;height:30px;object-fit:cover;object-position:50% 50%"></i></a>
