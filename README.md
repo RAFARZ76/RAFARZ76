@@ -29,7 +29,7 @@
       <a align="center" href="https://public.tableau.com/app/profile/rafael.raizer"><i class="fab fa-public.tableau"><img src="ImagemTableau.jpg"
       style="width:30px;height:30px;object-fit:cover;object-position:50% 50%"></i></a>
       <a align="center" class="tabwhatss" href="https://api.whatsapp.com/send/?phone=47999327137&text&app_absent=0"><i class="fab fa-whastsapp"><img                         src="imagemwhats.webp"
-      style="width:30px;height:30px;object-fit:cover;object-position:50% 50%"></i></a></u></strong>
+      style="width:30px;height:30px;object-fit:cover;object-position:50% 50%"></i></a></u></strong></p>
       <a align="center" href="https://rafarz76.github.io/Portfolio-Rafael-Raizer/"><i class="fab fa-LogoRAFARZ76"><img src="Cartão Apresentação.png"
       style="width:40px;height:40px;object-fit:cover;object-position:50% 50%"></i></a></u></strong></p>
 
